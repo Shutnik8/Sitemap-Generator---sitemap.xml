@@ -3,7 +3,7 @@
 A simple web application for generating `sitemap.xml`.  
 Runs entirely in the browser — no backend required.  
 
-![screenshot](screenshot.png)
+👉 Live demo: [Open Generator](https://shutnik8.github.io/)  
 
 ---
 
